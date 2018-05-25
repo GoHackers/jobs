@@ -10,7 +10,7 @@
 
 ## 重庆（CQ）
 
-## 重庆（CQ）
+## 大连（DL）
 
 ## 广州（GZ）
 
@@ -18,18 +18,22 @@
 
 ## 海南（HN）
 
-## 香港（HK）
-
 ## 杭州（HZ）
 
 ## 上海（SH）
 - [一下科技](http://www.yixia.com/)：[Go工程师](https://github.com/GoHackers/jobs/issues/3)
+
+## 深圳（SZ）
 
 ## 天津（TJ）
 
 ## 台湾（TW）
 
 ## 西安（XA）
+
+## 武汉（WH）
+
+## 雄安（XA）
 
 ## 厦门（XM）
 
