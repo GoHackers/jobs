@@ -35,5 +35,5 @@
 
 ---------------
 
-如有公司想加入此列表，欢迎`fork` & `pull request`。
+如有公司想加入此列表，欢迎`fork` & `pull request`。更多玩法请参见[这里](https://github.com/GoHackers/jobs/blob/master/how_to_play.md)。
 
