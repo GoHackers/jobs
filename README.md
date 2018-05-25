@@ -17,6 +17,7 @@
 ## 杭州（HZ）
 
 ## 上海（SH）
+- [一下科技](http://www.yixia.com/)：[Go工程师](https://github.com/GoHackers/jobs/issues/3)
 
 ## 西安（XA）
 
