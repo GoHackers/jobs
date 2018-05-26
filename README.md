@@ -1,6 +1,7 @@
-# 前沿技术岗位招聘列表
+# 前沿技术岗位招聘列表（大中华区）
+# Frontier technology job recruitment list (Greater China)
 
-*什么是前沿技术岗位？我们认为，目前移动互联网、云计算、数据科学以及AI+等领域的一线技术岗位就是。*
+*什么是前沿技术岗位？我们认为，`互联网+`、`云计算+`、`大数据+`、`人工智能+`等领域的一线技术岗位就是。*
 
 请各位注意发文格式，如需参照请查看[这里](https://github.com/GoHackers/jobs/blob/master/recruit_template.md)。目前正在热招的公司如下（在同一地域下按照添加的先后顺序排列）。
 
