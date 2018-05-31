@@ -1,6 +1,8 @@
 # 前沿技术岗位招聘列表（京津冀地区）
 # Frontier technology job recruitment list (Beijing, Tianjin, Hebei in China)
 
+灵感来自于[台灣 GO 語言招募職缺列表](https://github.com/golangtw/jobs)。
+
 *什么是前沿技术岗位？我们认为，`移动互联网`、`云计算`、`大数据`、`物联网`、`人工智能`、`无人机器`等领域的一线技术岗位就是。*
 
 **由于精力有限，我们暂时优先关注津京冀地区的相关职位，并不存在任何地域歧视。如果给各位造成了不便或不悦，敬请谅解。**
