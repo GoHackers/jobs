@@ -1,5 +1,5 @@
 # 前沿技术岗位招聘列表（京津冀地区）
-# Frontier technology job recruitment list (Beijing, Tianjin, Hebei in China)
+# Frontier Technology Job Recruitment List (BJ-TJ-HB Region in China)
 
 灵感来自于[台灣 GO 語言招募職缺列表](https://github.com/golangtw/jobs)。
 
